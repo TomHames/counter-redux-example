@@ -1,0 +1,26 @@
+{
+  "name": "counter-example-redux",
+  "version": "1.0.0",
+  "description": "Simple learning project to understand how to implement Redux into a React app",
+  "keywords": [
+    "react",
+    "react-redux",
+    "redux"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "create-react-app": "1.5.2",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-redux": "5.0.7",
+    "react-scripts": "1.1.4",
+    "redux": "4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
